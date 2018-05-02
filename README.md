@@ -98,10 +98,21 @@ Proy 7 -  GranadaShopping
 	
 
 	
-Proy 8 -  Solidario
+Proy 8 -  Evolving Social
 ========================================
 	  
-
+	Maria y Michaela
+	
+	“Evolving Social” es una plataforma para compartir noticias de actualidad y artículos de opinión sobre temáticas sociales en 	
+	cuatro áreas principales: Violencia de Género/Desigualdad, Refugiados de Guerra, Inmigrantes en España y Personas sin techo en 	
+	España.	
+	Objetivos: 1. Mantener informado al público sobre una temática específica
+		   2. Recopilar la información de distintos medios
+		   3. Crear conciencia sobre problemas en la sociedad
+		   4. Dar a conocer organizaciones sin ánimo de lucro que ayudan a personas desventajadas en nuestra sociedad
+		   5. Informar sobre actividades, marchas o protestas futuras que tratan estos temas sociales
+		   
+	Pretendemos dar información sobre eventos importantes por el Chat Bot y por nuestra Página web.	   
 
 
 
